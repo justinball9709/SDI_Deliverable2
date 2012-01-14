@@ -93,3 +93,7 @@ var Pack = function (r, name, message) {
 Pack(2, "Larry's"," is the minimum.");
 Pack(5, "If Larry hits it he will get a", " dollars extra.");
 
+//String function
+var string = funtion(cases) {
+	console.log(cases + "Hope we have a good amount of cases " + group + "amount.");
+};
