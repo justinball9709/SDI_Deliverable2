@@ -61,11 +61,11 @@ console.log("If Larry doesn't hit a tier level he will not get paid commission."
 }
 
 //functions with return
-var pi = 3.14159;
+var amount = 3;
 var radius = 5;
 
 var getArea = function (r) {
-	var area = r * r * pi;
+	var area = r * r * amount;
 	return area;
 };
 var reportArea = function(name, area, message){
