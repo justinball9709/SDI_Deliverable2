@@ -92,7 +92,4 @@ var Pack = function (r, name, message) {
 
 Pack(2, "Larry's"," is the minimum.");
 Pack(5, "If Larry hits it he will get a", " dollars extra.");
-var a = "hi";
-console.log(a);
-//
 
